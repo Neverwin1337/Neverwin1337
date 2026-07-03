@@ -1,11 +1,15 @@
-## 📊 GitHub Summary
 
-![](https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/0-profile-details.svg)
+<br>
 
-![](https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/1-repos-per-language.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neverwin1337&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neverwin1337&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
-![](https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/2-most-commit-language.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Neverwin1337&theme=transparent&hide_border=true"/>
+</p>
 
-![](https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/3-stats.svg)
-
-![](https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/4-productive-time.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neverwin1337/Neverwin1337/master/profile-summary-card-output/github/0-profile-details.svg"/>
+</p>
